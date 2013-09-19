@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='poly2tri'>
+  <!-- Specify the paths for translatable code                    -->
+  <source path='poly2tri'/>    
+  <source path='poly2tri/geometry/polygon'/>    
+  <source path='poly2tri/geometry/primitives'/>    
+  <source path='poly2tri/transform/coordinate'/>    
+  <source path='poly2tri/triangulation'/>    
+  <source path='poly2tri/triangulation/delaunay'/>    
+  <source path='poly2tri/triangulation/delaunay/sweep'/>    
+  <source path='poly2tri/triangulation/point'/>    
+  <source path='poly2tri/triangulation/sets'/>    
+  <source path='poly2tri/triangulation/util'/>    
+
+</module>

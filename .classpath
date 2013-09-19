@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="poly2tri/core"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/com.google.gwt.eclipse.sdkbundle_2.5.1/gwt-2.5.1/gwt-elemental.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
